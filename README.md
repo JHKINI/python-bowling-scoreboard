@@ -1,4 +1,6 @@
 # 🎳 Python Bowling Scoreboard
+![Bowling Game Result](gameresult1.png)
+![Bowling Game Result](gameresult2.png)
 
 Python과 Flet을 활용하여 구현한 볼링 게임 점수 관리 애플리케이션입니다.
 
